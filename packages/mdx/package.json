@@ -66,7 +66,7 @@
     "hast-util-to-estree": "^1.4.0",
     "is-plain-obj": "^3.0.0",
     "mdx-debugger": "^0.2.0",
-    "next": "13.1.1",
+    "next": "13.5.1",
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-json-view": "^1.21.3",
@@ -81,7 +81,7 @@
     "unist-util-visit": "^2.0.0",
     "unist-util-visit-parents": "^3.0.0",
     "use-spring": "^0.2.3",
-    "vite": "^2.8.6",
+    "vite": "^5.1.4",
     "vitest": "^0.5.9"
   },
   "peerDependencies": {
